@@ -1,8 +1,9 @@
 # swissknife
 
-[![Docker Stars](https://img.shields.io/docker/stars/golcinab/swissknife.svg)][hub]
-[![Docker Pulls](https://img.shields.io/docker/pulls/golcinab/swissknife.svg)][hub]
-[![ImageLayers.io](https://badge.imagelayers.io/golcinab/swissknife:latest.svg)](https://imagelayers.io/?images=golcinab/swissknife:latest)
+[![Docker Stars](https://img.shields.io/docker/stars/golcinab/swissknife.svg)](https://hub.docker.com/r/golcinab/swissknife/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/golcinab/swissknife.svg)](https://https://hub.docker.com/r/golcinab/swissknife/)
+[![Image Size](https://img.shields.io/imagelayers/image-size/golcinab/swissknife/latest.svg)](https://imagelayers.io/?images=golcinab/swissknife:latest)
+[![Image Layers](https://img.shields.io/imagelayers/layers/golcinab/swissknife/latest.svg)](https://imagelayers.io/?images=golcinab/swissknife:latest)
 
 A minimal Docker image based on Alpine Linux with some extra tools!
 
