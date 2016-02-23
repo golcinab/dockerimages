@@ -1,2 +1,2 @@
 # dockerimages
-Public dockerimages created for multipler purposes
+Public dockerimages created for multiple purposes
